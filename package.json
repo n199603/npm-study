@@ -8,6 +8,7 @@
   },
   "author": "Yuto",
   "license": "MIT",
+  "private": false,
   "dependencies": {
     "cool-ascii-faces": "^1.3.4"
   }
